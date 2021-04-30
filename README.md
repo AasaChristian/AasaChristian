@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">]
+[<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">]
