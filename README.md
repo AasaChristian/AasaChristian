@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello All 👋
 
 <!--
 **AasaChristian/AasaChristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Aasa Christian. I'm a web developer always on the lookout for my next challenge. 
 - 📫 How to reach me: 
 
+| [<img src="https://unsplash.com/photos/V5vqWC9gyEU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" alt="Email" width="24">](https://www.linkedin.com/in/aasa-christian-540685195/) |
+
 | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/aasa-christian-540685195/) |
+
+
+
+
+
