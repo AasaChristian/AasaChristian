@@ -12,11 +12,11 @@ I'm Aasa Christian, a web developer always on the lookout for my next challenge.
  
 - 🤔 I’m always open for advice. 
  
-- 💬 Ask me anything. I enjoy coding as a hobby and I'm open to discuss spacific subjects or anything in general. 
+- 💬 Ask me anything. I enjoy coding as a hobby and I'm open to discuss specific subjects or anything in general. 
  
 - 📫 How to reach me: 
 
-| Email: [<img src="https://github.com/AasaChristian/AasaChristian/blob/main/img/messages.jpg" alt="Email" width="24">](mailto:aasachristian@yahoo.com) |
+| E-mail: [<img src="https://github.com/AasaChristian/AasaChristian/blob/main/img/messages.jpg" alt="Email" width="24">](mailto:aasachristian@yahoo.com) |
 
 | LinkedIn: [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/aasa-christian-540685195/) |
 
