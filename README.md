@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Aasa Christian. I'm a web developer always on the lookout for my next challenge. 
 - 📫 How to reach me: 
 
-| [<img src="https://github.com/AasaChristian/AasaChristian/blob/main/img/messages.jpg" alt="Email" width="24">](https://www.linkedin.com/in/aasa-christian-540685195/) |
+| [<img src="https://github.com/AasaChristian/AasaChristian/blob/main/img/messages.jpg" alt="Email" width="24">](mailto:aasachristian@yahoo.com) |
 
 | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/aasa-christian-540685195/) |
 
