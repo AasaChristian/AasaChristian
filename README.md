@@ -23,7 +23,7 @@ I'm Aasa Christian. I'm a web developer always on the lookout for my next challe
 | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/aasa-christian-540685195/) 
 
 
-| ![Aasa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AasaChristian )) |
+  ![Aasa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AasaChristian )
 
 
 
