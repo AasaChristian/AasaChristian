@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Aasa Christian. I'm a web developer always on the lookout for my next challenge. 
+I'm Aasa Christian, a web developer always on the lookout for my next challenge. 
+- ⚡ I'm experienced in: Javascript React Node.js React-Redux CSS HTML Axios PostgresSQL Python
+
 - 🔭 I’m currently working on hosting SoFlex app back end on AWS beanstalk.
  
 - 🌱 I’m currently learning AWS and React-Native
